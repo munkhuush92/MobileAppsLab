@@ -9,6 +9,6 @@ public class NextActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_next);
-        System.out.println();
+        System.out.println("booom shack lala");
     }
 }
